@@ -1,0 +1,31 @@
+How to provide data for Green Map
+
+
+In umap: http://umap.openstreetmap.fr/en/map/green-map_257549#12/31.3847/120.9420
+- Name
+  Name of the project in English
+- Name_cn
+  Name of the project in Chinese
+- Status
+  Status of the project: Complete, Underway, Planned
+- Type
+  Project category: school, wetland, river, park, farm, road, service
+  (These can be discussed and changed if they don't suit)
+- Folder
+  Name of the Google Driver folder, see below.
+
+In Google Drive folder (https://drive.google.com/drive/folders/1ULwNoX11B1QdNcdVqb6drinx-IFLIWYj)
+- Folder name matches "Folder" property of object in umap exactly (eg culture-plaza-wetland)
+- description_en.txt
+  Paragraph-length description in English
+- description_cn.txt
+  Paragraph-length description in Chinese
+- video.txt (optional)
+  Contains just the URL of a youtube video, in this format: https://www.youtube.com/watch?v=oSrNdhwTW_U
+- Photo1.jpg
+  Image #1
+- Photo1_en.txt
+  Caption #1 in English
+- Photo1_cn.txt
+  Caption #1 in Chinese
+- (repeat for other photos)

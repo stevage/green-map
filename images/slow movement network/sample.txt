@@ -1,0 +1,6 @@
+Make copies of this file as the basis for the descriptions, using HTML.
+<br>
+You can also add bullets like this:
+
+ * Bullet 1
+ * Bullet 2

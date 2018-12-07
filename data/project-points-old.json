@@ -1,0 +1,657 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kunshan 2030 Old No1 School K2 ",
+        "type": "Urban development",
+        "status": "Planned",
+        "name_cn": "昆山2030 （K2）老一中地块 "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.94424124148722,
+          31.379069357097826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boshi Road ",
+        "type": "road",
+        "status": "Planned",
+        "name_cn": "博士路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.89949473407685,
+          31.40593629026262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Linyin Road ",
+        "type": "road",
+        "status": "Planned",
+        "name_cn": "林荫路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.902583,
+          31.405741666666668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "Road corridor",
+        "name": "Elevated Ringroad Corridor ",
+        "status": "Complete",
+        "name_cn": "中环高架廊道"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.99115782355358,
+          31.397220724532293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Miaojing River Ecological Corridor ",
+        "type": "River corridor",
+        "status": "Planned",
+        "name_cn": "庙泾河生态廊道"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.893888,
+          31.3862,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kunshan 2030 Urban Renewal K3 ",
+        "type": "Urban renewal",
+        "status": "Planned",
+        "name_cn": "昆山2030（K3）城市更新"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.90149835322924,
+          31.40354364265126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guanlin Road ",
+        "type": "road",
+        "status": "Planned",
+        "name_cn": "观林路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.90149835322924,
+          31.40354364265126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jiangnan Lixiang Estate Stage 2 ",
+        "type": "Residential development",
+        "status": "Complete",
+        "name_cn": "江南理想二期"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.893888,
+          31.3862,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kuntai Road ",
+        "type": "road",
+        "status": "Planned",
+        "name_cn": "昆太路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.99115782355358,
+          31.397220724532293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Linyin Road ",
+        "type": "road",
+        "status": "Planned",
+        "name_cn": "林荫路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.902583,
+          31.405741666666668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boshi Road ",
+        "type": "road",
+        "status": "Planned",
+        "name_cn": "博士路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.89949473407685,
+          31.40593629026262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kunshan 2030 High Speed Train District K1 ",
+        "type": "Urban development",
+        "status": "Planned",
+        "name_cn": "昆山2030（K1）之昆山高铁南站片区"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.94424124148722,
+          31.379069357097826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Hubin Road ",
+        "type": "Road corridor",
+        "status": "Complete",
+        "name_cn": "新湖滨路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.84198490549923,
+          31.404711923488232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ringroad Corridor ",
+        "type": "Road corridor",
+        "status": "Complete",
+        "name_cn": "中环廊道"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9681362170703,
+          31.374373902215794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "a multi-functional swale both treating water and conveyancing water ",
+        "name": "Jiangnan Jinxiu Estate ",
+        "type": "Residential development",
+        "status": "Underway",
+        "name_cn": "江南镜秀小区"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.90002283550606,
+          31.404875057609647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Forest Park Stage 2 ",
+        "type": "Park",
+        "status": "Underway",
+        "name_cn": "森林公园二期"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.91108,
+          31.396437,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zhudian Klim Fac Redevelopment ",
+        "type": "Village ",
+        "status": "Complete",
+        "name_cn": "祝甸砖窑改造"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.87718023249991,
+          31.146908692825374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boya Road ",
+        "type": "Road",
+        "status": "Planned",
+        "name_cn": "博雅路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.908928,
+          31.404935000000002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "linear park as part of slow movement network in Western Kunshan",
+        "name": "Zuchongzhi Road ZCZ ",
+        "type": "Road corridor",
+        "status": "Planned",
+        "name_cn": "祖冲之路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.88783813798497,
+          31.407904211445224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Forest Park Stage 1 ",
+        "type": "Park",
+        "status": "Complete",
+        "name_cn": "森林公园一期"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.898723,
+          31.399539,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dingjing River Restoration ",
+        "type": "River corridor",
+        "status": "Planned",
+        "name_cn": "鼎泾河生态修复"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.92715267533794,
+          31.404467439682467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Qingcheng Farm ",
+        "type": "Farm",
+        "status": "Complete",
+        "name_cn": "青澄基地农场"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.87127427811103,
+          31.388258824775797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ringraod Southgate park",
+        "type": "Park",
+        "status": "Complete",
+        "name_cn": "中环南部门户公园"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.92205559453389,
+          31.342970862851413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zhenchuan West Road ",
+        "type": "Road corridor",
+        "status": "Planned",
+        "name_cn": "震川西路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.90136246280706,
+          31.377767048936242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Public Health Centre ",
+        "type": "Public Development",
+        "status": "Planned",
+        "name_cn": "公共卫生中心"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.88763332215893,
+          31.381593861680596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zhaoshe Primary School ",
+        "type": "Education",
+        "status": "Planned",
+        "name_cn": "赵厍小学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.93179462673545,
+          31.373399123888987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ringroad Qingfeng Park",
+        "type": "Park",
+        "status": "Complete",
+        "name_cn": "中环庆丰路公园"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.00509182172522,
+          31.352817719794185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tinglin Park wetland ",
+        "type": "Park",
+        "status": "Underway",
+        "name_cn": "亭林公园湿地"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.945171,
+          31.392672,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chaoyang Tiandi ",
+        "type": "Urban development",
+        "status": "Planned",
+        "name_cn": "朝阳天地"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.954438,
+          31.37554,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ringroad Southgate Park ",
+        "type": "Park",
+        "status": "Complete",
+        "name_cn": "中环南部门户公园 "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.920422,
+          31.341505,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yuefeng Island Organic Farm ",
+        "type": "Farm",
+        "status": "Complete",
+        "name_cn": "悦丰岛有机农场"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.833207,
+          31.400989,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jiangnan Lixiang Estate Stage 1 ",
+        "type": "Residential development",
+        "status": "Complete",
+        "name_cn": "江南理想一期"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.895204,
+          31.384269,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ringroad Park - Zhonghuayuan Road ",
+        "type": "Park",
+        "status": "Complete",
+        "name_cn": "中环中华园路公园"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9223415636372,
+          31.364403478976616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Side Eco-tone Restoration ",
+        "type": "Ecological restoration",
+        "status": "Underway",
+        "name_cn": "湖畔生态梯度带修复"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.83830064287743,
+          31.407933538359146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Culture Plaza Wetland ",
+        "folder": "culture-plaza-wetland",
+        "status": "Complete",
+        "type": "Public open space",
+        "name_cn": "文化艺术中心湿地",
+        "images": [
+          {
+            "url": "culture-plaza-wetland/photo1.jpg",
+            "description_en": "<ul><li> Wetlands 2 years after completion</li>\n<li> Concrete grids to create ecological patches each colonized by one aquatic species creating a patchwork effect</li>\n<li> Swamp Cyprus to enhance biodiversity and add a nice vertical touch to spatially expand ecological dimension</li>\n</ul>",
+            "description_cn": "<ul><li> 湿地뿯庽成2年后뿯皽景观效뿯枽</li>\n<li> 水뿯沽网格创붿뿯亽由不同本土水生植뿯붿뿯枽成뿯皽生态뿯施块效뿯枽</li>\n<li> 水杉、붿뿯羽杉不但뿯墽뿯劽뿯亽湿地뿯皽生态多样性붿同뿯施将뿯厽本扁平뿯皽生态뿯纽뿯庽뿯抽向뿯窽体</li>\n</ul>"
+          },
+          {
+            "url": "culture-plaza-wetland/photo2.jpg",
+            "description_en": "<ul><li> Bird view of wetland cells that are inter-connected by pipes, spreading into the public realm</li>\n<li> Providing focal dynamics by adding the spatial intimacy and seasonal interests to the grand gesture of the plaza</li>\n</ul>",
+            "description_cn": "<ul><li> 湿地붿뿯瞽뿯嚽붿뿯禽植池뿯붿由뿯箽붿连뿯掽붿其有机뿯皽形뿯犽뿯咽뿯纽合嵌入公共空뿯붿之中</li>\n• 不同뿯禽植区之뿯붿뿯붿置栈붿붿使붿뿯亽뿯厽뿯亽뿯咽뿯㚽潱쉦톉�붿붿붿붿真正意义上将生态理뿯徽뿯붿入뿯亽뿯亽뿯皽生活</ul>"
+          },
+          {
+            "url": "culture-plaza-wetland/photo3.jpg",
+            "description_en": "<ul><li> Shoot under the water</li>\n</ul>",
+            "description_cn": "<ul>뿯붿• 湿地水下뿯抽摄</ul>"
+          },
+          {
+            "url": "culture-plaza-wetland/photo4.jpg",
+            "description_en": "<ul><li> Established flora and fauna attracting people for recreational fishing (2018)</li>\n<li> Concrete grids as board walk to encourage people to get close to nature</li>\n</ul>",
+            "description_cn": "<ul><li> 湿地植뿯붿生붿붿好且有小붿小붿生活뿯亽此붿吸引着周뿯嚽居民来捉捕嬉戏(2018年4月)</li>\n• 水뿯沽分뿯붿同뿯施作为뿯亽水栈붿平뿯厽</ul>"
+          },
+          {
+            "url": "culture-plaza-wetland/photo5.jpg",
+            "description_en": "<ul><li> Vegetation establishment at 5 years after completion 붿September 2018붿</li>\n</ul>",
+            "description_cn": "<ul>뿯붿• 湿地뿯庽成5年后뿯皽植뿯붿生붿뿯悽뿯冽(2018年9月)</ul>"
+          }
+        ],
+        "description": "Kunshan Culture and Art Center is an important cultural project in Kunshan with a total area of 119,000 square meters. The precinct also \r\nincludes a public plaza that integrates the new icon building with the joining waterway and existing sports facilities. Central to this plaza is \r\nthe constructed wetland system which has been integrated within contemporary landscape character of the plaza and functions as an \r\necological landscape that not only provides (vegetation) biodiversity that is usually lost in the highly urbanized development area but also \r\nforms a green infrastructure that delivers multiple benefits to the precinct on top of its aesthetic and landscape value.\r\n",
+        "description_en": "Kunshan Culture and Art Center is an important cultural project in Kunshan with a total area of 119,000 square meters. The precinct also \r\nincludes a public plaza that integrates the new icon building with the joining waterway and existing sports facilities. Central to this plaza is \r\nthe constructed wetland system which has been integrated within contemporary landscape character of the plaza and functions as an \r\necological landscape that not only provides (vegetation) biodiversity that is usually lost in the highly urbanized development area but also \r\nforms a green infrastructure that delivers multiple benefits to the precinct on top of its aesthetic and landscape value.\r\n",
+        "description_cn": "뿯붿뷉뿯쒽붿뿯붿뿯붿뿯붿뿯붿뿯붿뿯붿뷉뿯붿뿯�붿뿯쒽붿뿯붿뿯붿뿯붿뿄뿯붿뿯붿볕뿯붿뿯붿뿯캽ㆪ⸱붿뿯욽붿뿯붿ꇗ뿯붿뿯욽붿뿯붿뿯붿뿯쒽붿뿯붿뿯쒽ꆳ뿯킽붿닖뿯붿뿯붿਍뿯쮽붿꫊뿯붿뿯붿꫎뿯붿뿯붿뿯춽붿뿯붿뿯붿뿯햽붿뿯ꚴ뿯붿뿯붿뿯춽붿뿯횽ꆳ뿯붿뿯붿뿯붿뿯붿뿯붿껋뿯붿뿯붿뿯붿뿯붿뿯붿뿯붿껋뿯붿듔뿯붿뻈뿯붿뿯붿뿯붿뿯붿뿯�펺붿뿯붿਍곍뇊뿯붿뿯붿뿯햽붿뿯붿뿯붿껋곎뿯횽붿뿯�붿냓뿯�붿뿯붿볔뿯붿뿯붿껋뿯붿뿯붿뿯햽쪹붿뿯쮽붿뿯붿뿯붿뿯붿ꇮ",
+        "video": "https://www.youtube.com/watch?v=oSrNdhwTW_U"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.90284411886788,
+          31.38520055490967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sponge City Innovation Park ",
+        "type": "Park",
+        "status": "Underway",
+        "name_cn": "海绵城市创新示范基地"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.91245444346937,
+          31.41146271924351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kangju Park ",
+        "type": "Park",
+        "status": "Complete",
+        "name_cn": "康居公园"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.893023,
+          31.384281,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Western High School ",
+        "status": "Complete",
+        "type": "Education",
+        "name_cn": "西部高级中学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.89211764772884,
+          31.421831025882376
+        ]
+      }
+    }
+  ]
+}
